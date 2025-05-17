@@ -1,0 +1,26 @@
+[
+  {
+    "id": "prod_SKLb1o0WwTAliY",
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.jpg"
+  },
+  {
+    "id": "prod_SKLc3FDf4hP8Dv",
+    "name": "Banana",
+    "price": 0.59,
+    "imgUrl": "/imgs/banana.jpg"
+  },
+  {
+    "id": "prod_SKLgwJzKw3MbCw",
+    "name": "Car",
+    "price": 15999.99,
+    "imgUrl": "/imgs/car.jpg"
+  },
+  {
+    "id": "prod_SKLhh8QN5jYkyC",
+    "name": "Computer",
+    "price": 799.99,
+    "imgUrl": "/imgs/computer.jpg"
+  }
+]
